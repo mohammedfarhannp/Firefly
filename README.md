@@ -53,8 +53,7 @@ This will ask you to input the number at runtime.
 
 ## 🧪 Sample Output
 
-![Output](https://github.com/mohammedfarhannp/firefly/master/blob/imgs/Sample_Output.png)
-
+![Output](https://github.com/mohammedfarhannp/Firefly/blob/master/imgs/Sample_Output.png)
 ---
 
 ## 🤝 Contributions
